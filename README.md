@@ -1,1 +1,1 @@
-# DogCNN
+#Image Classification using Convolutional Neural Network
